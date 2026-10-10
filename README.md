@@ -26,3 +26,6 @@ API REST desenvolvida em Spring Boot para gerenciamento de despesas pessoais. Pe
 3. Execute o comando Maven para iniciar a aplicação:
    ```bash
    mvn spring-boot:run
+
+
+project idea: https://roadmap.sh/projects/expense-tracker
