@@ -1,4 +1,8 @@
 package boot.spring.expenseTracker.dto;
 
-public class ExpenseSummary {
+import java.math.BigDecimal;
+
+public record ExpenseSummaryResponse (
+        BigDecimal amount
+) {
 }
